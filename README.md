@@ -10,7 +10,7 @@ An intuitive HMI interface enables the operator to monitor the system status and
 ##  Contents
 - Multiple folders containing screenshots and logic code organized by function:
   - *HMI Screens*
-  - *Control System*
+  - *Logic Functions*
   - *Safety Logic (Alarms, Emergency Stop, Brake Failure, etc.)*
   - *Analog Inputs (Speed, Temperature, Flow, etc.)*
 - Full project compressed in PROJECT FILE.zip
