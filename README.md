@@ -29,5 +29,4 @@ An intuitive HMI interface enables the operator to monitor the system status and
 
 ---
 
-*Created by:* [AhmedElsayed997](https://github.com/AhmedElsayed997)  
-📫 For more projects: [GitHub Profile] https://github.com/AhmedElsayed997/HYDROELECTRIC-PROJECT-HMI/tree/main
+
